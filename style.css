@@ -8,3 +8,6 @@ h1{
     text-align: center;
     margin-bottom: 10px;
 }
+.menu {
+    border: 1px solid black;
+}
