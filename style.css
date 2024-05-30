@@ -9,10 +9,3 @@ h1{
 .menu {
     border: 2px solid black;
 }
-.row {
-    margin: 10px;
-}
-.heading {
-    float: right;
-    clear: left;
-}
